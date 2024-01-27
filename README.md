@@ -8,4 +8,6 @@ This project takes a look at Kickstarter data from 2012 - 2017 and looks to unco
 
 Data for this project was provided in 5 separate CSV files (campaign, category, sub_category, currency, country) which were first cleaned in Excel prior to being imported into PostgreSQL tables for analysis. 
 
-After the queries were completed, a final CSV was exported and added to Tableau for visualizations. 
+After the queries were completed, a final CSV was exported and added to Tableau for visualizations and then summarized in a final report.
+
+The final report with the full summaries and business take-aways can be found [here](https://github.com/baldwinjames/Kickstarter_analysis/blob/main/Kickstarter%20Findings%20and%20Final%20Report.pdf).
