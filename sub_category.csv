@@ -1,0 +1,160 @@
+id,name,category_id
+1,Poetry,1
+2,Narrative Film,2
+3,Music,3
+4,Film & Video,2
+5,Restaurants,4
+6,Food,4
+7,Drinks,4
+8,Product Design,5
+9,Documentary,2
+10,Nonfiction,1
+11,Indie Rock,3
+12,Crafts,6
+13,Games,7
+14,Tabletop Games,7
+15,Design,5
+16,Comic Books,8
+17,Art Books,1
+18,Fashion,9
+19,Childrenswear,9
+20,Theater,10
+21,Comics,8
+22,DIY,6
+23,Webseries,2
+24,Animation,2
+25,Food Trucks,4
+26,Public Art,11
+27,Illustration,11
+28,Photography,12
+29,Pop,3
+30,People,12
+31,Art,11
+32,Family,2
+33,Fiction,1
+34,Accessories,9
+35,Rock,3
+36,Hardware,13
+37,Software,13
+38,Weaving,6
+39,Gadgets,13
+40,Web,13
+41,Jazz,3
+42,Ready-to-wear,9
+43,Festivals,10
+44,Video Games,7
+45,Anthologies,8
+46,Publishing,1
+47,Shorts,2
+48,Electronic Music,3
+49,Radio & Podcasts,1
+50,Apps,13
+51,Cookbooks,4
+52,Apparel,9
+53,Metal,3
+54,Comedy,2
+55,Hip-Hop,3
+56,Periodicals,1
+57,Dance,14
+58,Technology,13
+59,Painting,11
+60,World Music,3
+61,Photobooks,12
+62,Drama,2
+63,Architecture,5
+64,Young Adult,1
+65,Latin,3
+66,Mobile Games,7
+67,Flight,13
+68,Fine Art,12
+69,Action,2
+70,Playing Cards,7
+71,Makerspaces,13
+72,Punk,3
+73,Thrillers,2
+74,Children's Books,1
+75,Audio,15
+76,Performance Art,11
+77,Ceramics,11
+78,Vegan,4
+79,Graphic Novels,8
+80,Fabrication Tools,13
+81,Performances,14
+82,Sculpture,11
+83,Sound,13
+84,Stationery,6
+85,Print,15
+86,Farmer's Markets,4
+87,Events,4
+88,Classical Music,3
+89,Graphic Design,5
+90,Spaces,4
+91,Country & Folk,3
+92,Wearables,13
+93,Mixed Media,11
+94,Journalism,15
+95,Movie Theaters,2
+96,Animals,12
+97,Digital Art,11
+98,Horror,2
+99,Knitting,6
+100,Small Batch,4
+101,Installations,11
+102,Community Gardens,4
+103,DIY Electronics,13
+104,Embroidery,6
+105,Camera Equipment,13
+106,Jewelry,9
+107,Farms,4
+108,Conceptual Art,11
+109,Fantasy,2
+110,Webcomics,8
+111,Experimental,10
+112,Science Fiction,2
+113,Puzzles,7
+114,R&B,3
+115,Music Videos,2
+116,Calendars,1
+117,Video,15
+118,Plays,10
+119,Blues,3
+120,Bacon,4
+121,Faith,3
+122,Live Games,7
+123,Woodworking,6
+124,Places,12
+125,Footwear,9
+126,3D Printing,13
+127,Academic,1
+128,Zines,1
+129,Musical,10
+130,Workshops,14
+131,Photo,15
+132,Immersive,10
+133,Letterpress,6
+134,Gaming Hardware,7
+135,Candles,6
+136,Television,2
+137,Space Exploration,13
+138,Couture,9
+139,Nature,12
+140,Robots,13
+141,Typography,5
+142,Crochet,6
+143,Translations,1
+144,Textiles,11
+145,Pottery,6
+146,Interactive Design,5
+147,Video Art,11
+148,Quilts,6
+149,Glass,6
+150,Pet Fashion,9
+151,Printing,6
+152,Romance,2
+153,Civic Design,5
+154,Kids,3
+155,Literary Journals,1
+156,Taxidermy,6
+157,Literary Spaces,1
+158,Chiptune,3
+159,Residencies,14
